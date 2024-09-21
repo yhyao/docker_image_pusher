@@ -7,3 +7,4 @@ xhofe/alist:latest
 nastool/nas-tools
 icloudpd/icloudpd
 linuxserver/qbittorrent
+jellyfin/jellyfin
