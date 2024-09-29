@@ -8,3 +8,4 @@ nastool/nas-tools
 boredazfcuk/icloudpd
 linuxserver/qbittorrent
 jellyfin/jellyfin
+xhofe/alist
