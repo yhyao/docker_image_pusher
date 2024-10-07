@@ -9,3 +9,4 @@ boredazfcuk/icloudpd
 linuxserver/qbittorrent
 jellyfin/jellyfin
 xhofe/alist
+homeassistant/home-assistant
